@@ -1,5 +1,7 @@
 # NexOne ERP — Item Master Data
 
+DEfault auth  abc password 123456
+
 Real Next.js App Router implementation of the NexOne ERP Item Master Data system, strictly rebuilt from the HTML specification and clean architecture reference.
 
 Built with:
